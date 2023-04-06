@@ -1,0 +1,5 @@
+channels.db
+.vscode
+__pycache__
+users.db
+Dockerfile
